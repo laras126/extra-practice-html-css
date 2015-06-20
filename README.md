@@ -1,5 +1,6 @@
 # UIPIC Extra Practice
-Complete these tasks for extra practice. You can [download the starter files here] or clone this URL in Cloud9: 
+Complete these tasks for extra practice. You can [download these starter files](https://github.com/laras126/extra-practice-html-css/archive/master.zip) or clone this URL in Cloud9: ```https://github.com/laras126/extra-practice-html-css```
+
 
 #### Level 1
 - Make a link open in a new tab
