@@ -1,0 +1,48 @@
+
+/* Main Styles */
+
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    max-width: 700px;
+    margin: 2em auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+/* Typography */
+
+
+/* Header */
+
+
+/* Nav */
+
+
+/* Forms */
+
+
+/* Content */
+
+
+/* Helper Classes */
+
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
